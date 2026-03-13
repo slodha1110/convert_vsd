@@ -1,6 +1,6 @@
 # VSD to PDF Converter
 
-Batch converts all `.vsd` (Microsoft Visio) files to PDF using LibreOffice.
+Batch converts all `.vsd` (Microsoft Visio) files to PDF using LibreOffice..
 
 ## Prerequisites
 
